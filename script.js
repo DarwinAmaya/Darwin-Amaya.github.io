@@ -1,9 +1,9 @@
 
 //Editar
 let objetivo = 30;
-let TextoPuntaje = "Tóxicas Eliminadas: ";
-let TextoVictoria = "¡VICTORIA!";
-let TextoDerrota = "DERROTA";
+let TextoPuntaje = "Feli Eliminadas: ";
+let TextoVictoria = "Ganaste Feli!";
+let TextoDerrota = "Perdiste Feli";
 //
 
 //Youtube: https://www.youtube.com/watch?v=Oat0bMq5NGc
